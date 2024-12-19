@@ -1,0 +1,21 @@
+body {
+    background: white;
+    display: flex;
+    align-items: center;
+    overflow-y: hidden;
+   }
+
+canvas {
+   border: 2px solid magenta;
+  } 
+
+h2{
+    margin-bottom: 40%;
+    margin-left: 1%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color :blueviolet;
+    letter-spacing: 10mm;
+    
+  }
+
+
